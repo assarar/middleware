@@ -73,8 +73,6 @@ Retourne tous les patients
 py -m main.application
 ```
 
-toto 
-
 liens importants: 
 
 https://github.com/schoolofcode-me/rest-api-sections
